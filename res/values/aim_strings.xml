@@ -114,31 +114,31 @@
      <string name="wakeup_when_plugged_unplugged_summary">Wake up device if charger is plugged/unplugged.</string>
  
 <!-- UI debug setting: show CPU info? [CHAR LIMIT=25] -->
-     <string name="show_cpu_info">Show CPU info</string>
+     <string name="show_cpu_info">Show CPU Info</string>
      <!-- UI debug setting: show cpu usage summary [CHAR LIMIT=50] -->
      <string name="show_cpu_info_summary">Screen overlay showing current CPU info</string>
 
 <!-- Expanded desktop -->
-     <string name="power_menu_expanded_desktop">Expanded desktop</string>
-     <string name="expanded_hide_nothing">Hide nothing</string>
-     <string name="expanded_hide_status">Hide status bar</string>
-     <string name="expanded_hide_navigation">Hide navigation bar</string>
-     <string name="expanded_hide_both">Hide both</string>
+     <string name="power_menu_expanded_desktop">Expanded Desktop</string>
+     <string name="expanded_hide_nothing">Hide Nothing</string>
+     <string name="expanded_hide_status">Hide Status Bar</string>
+     <string name="expanded_hide_navigation">Hide Navigation Bar</string>
+     <string name="expanded_hide_both">Hide Both</string>
      <string name="expanded_nothing_to_show">To add a custom per-app configuration for expanded state, set "Enabled for all" to the off position</string>
-     <string name="expanded_desktop_state">Expanded state</string>
-     <string name="expanded_enabled_for_all">Enabled for all</string>
-     <string name="expanded_user_configurable">User configurable</string>
-     <string name="expanded_desktop_style">Expanded desktop style</string>
+     <string name="expanded_desktop_state">Expanded State</string>
+     <string name="expanded_enabled_for_all">Enabled for All</string>
+     <string name="expanded_user_configurable">User Configurable</string>
+     <string name="expanded_desktop_style">Expanded Desktop Style</string>
      <string name="expanded_desktop_style_description">Choose a default expanded desktop style</string>
-     <string name="expanded_desktop_title">Expanded desktop options</string>
+     <string name="expanded_desktop_title">Expanded Desktop Options</string>
 
 <!-- Quick unlock -->
-    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
+    <string name="unlock_quick_unlock_control_title">Quick Unlock</string>
     <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
  	
 <!-- PIN scramble -->
-     <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
-     <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
+     <string name="unlock_scramble_pin_layout_title">Scramble Layout</string>
+     <string name="unlock_scramble_pin_layout_summary">Scramble PIN Layout when unlocking device</string>
 
 <!-- OTA -->
   <string name="aimupdate_settings_title">Aim System Updates</string> 
