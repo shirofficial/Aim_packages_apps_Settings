@@ -121,7 +121,7 @@
 <!-- Expanded desktop -->
      <string name="power_menu_expanded_desktop">Expanded Desktop</string>
      <string name="expanded_hide_nothing">Hide Nothing</string>
-     <string name="expanded_hide_status">Hide Status Bar</string>
+     <string name="expanded_hide_status">Hide Statusbar</string>
      <string name="expanded_hide_navigation">Hide Navigation Bar</string>
      <string name="expanded_hide_both">Hide Both</string>
      <string name="expanded_nothing_to_show">To add a custom per-app configuration for expanded state, set "Enabled for all" to the off position</string>
